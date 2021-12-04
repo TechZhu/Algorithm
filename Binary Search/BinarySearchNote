@@ -1,0 +1,15 @@
+Clarification and KEY POINTS regarding binary search
+
+CLARIFICATION AND ASSUMPTIONS:
+not null?
+ascending or descending order?
+are there any duplicates in the array?
+negative number in the array?
+data size fit into memory?
+
+KEY POINTS
+in the final result, whether keep one or two elements in the array
+When half size of the array, keep the left/right element or not?
+
+
+
